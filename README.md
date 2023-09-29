@@ -1,4 +1,4 @@
-# Minority Report  (ETL com Python)
+# Santander Dev Week 2023 (ETL com Python)
 
 O projeto tem como finalidade utilizar as habilidades técnicas adquiridas durante o curso Introdução a ciência de dados e montar um projeto voltado ao mercado.
 
